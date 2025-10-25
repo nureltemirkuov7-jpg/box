@@ -1,0 +1,79 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-size: 16px;
+}
+.moon {
+	width: 50%;
+	text-align: center;
+	margin:40px auto;
+	text-decoration: underline;
+}
+.moon h1{
+	font-family: "Montserrat", sans-serif;
+	font-weight: 800;
+	font-size: 3em;
+	text-align: center;
+	text-transform: uppercase;
+	text-shadow: -5px 5px 6px blueviolet;
+	/*text-decoration: underline;*/
+}
+/*.moon p{
+	 font-family: "Montserrat", sans-serif;
+	 font-size: 1.5em;
+	 line-height: 1em;
+	 letter-spacing: 5px;
+}*/
+.p1{
+	font-family: "Caprasimo", serif;
+	font-size: 1.5em;
+	line-height: 1.2em;
+	letter-spacing: 5px;
+	font-weight: 800;
+	text-align: center;
+	text-transform: uppercase;
+	text-shadow: -5px -5px 6px blueviolet;
+}
+.p2{
+	font-family: "Playwrite DE SAS", cursive;
+	font-size: 1.5em;
+	line-height: 1.2em;
+	letter-spacing: 5px;
+	font-weight: 800;
+	text-align: center;
+	text-transform: uppercase;
+	text-shadow: 5px 5px 6px blueviolet;
+}
+.p3{
+	font-family: "Lobster Two", sans-serif;
+	font-size: 1.5em;
+	line-height: 1.2em;
+	letter-spacing: 5px;
+	font-weight: 800;
+	text-align: center;
+	text-transform: uppercase;
+	text-shadow: -5px -5px 6px blueviolet;
+}
+.p4{
+	font-family: "Warnes", cursive;
+	font-size: 1.5em;
+	line-height: 1.2em;
+	letter-spacing: 5px;
+	font-weight: 800;
+	text-align: center;
+	text-transform: uppercase;
+	text-shadow: -5px 5px 6px blueviolet;
+}
+.p5{
+	font-family: "Caveat", cursive;
+	font-size: 1.5em;
+	line-height: 1.2em;
+	letter-spacing: 5px;
+	font-weight: 800;
+	text-align: center;
+	text-transform: uppercase;
+	text-shadow: 5px -5px 6px blueviolet;
+}
